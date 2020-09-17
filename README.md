@@ -2,7 +2,7 @@
 Repository for everything about the internship, including issues and bugs
 
 
-##Assignment Description
+## Assignment Description
 Crownstone
 
 Crownstone, gevestigd in Rotterdam, Stationsplein 45 d1.118, https://crownstone.rocks, is fabrikant van slimme stekkers en connectoren (kroonsteentjes). Een Crownstone product is een 16A schakelaar, LED dimmer, vermogensmeter, soft-fuse, standby-killer en aanwezigheidssensor ineen. Unique selling point is de positiebepaling binnenshuis van smartphones en wearables dat het mogelijk maakt om volledig automatisch te reageren op de aanwezigheid, binnenkomst, of vertrek van een persoon. Direct kunnen lichten worden aangezet of energieverbruikende apparaten uitgezet. 
